@@ -1,7 +1,6 @@
 *[Fun thing that does not relate to topic](Tables.html)*
+# Classical Conditioning
 
-## Classical Conditioning
+# Operational Conditioning
 
-## Operational Conditioning
-
-## Observational Learning
+# Observational Learning
