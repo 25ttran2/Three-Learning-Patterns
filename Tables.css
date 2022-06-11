@@ -1,0 +1,17 @@
+body {
+	background-color:white;
+	animation:bgcolor 5s infinite alternate;
+}
+
+tr {
+ 	font-size:73px;
+	color:black;
+	animation:bgcolor 5s infinite alternate;
+}
+
+@keyframes bgcolor{
+	from{background-color:white;
+	color:black;}
+	to{background-color:black;
+	color:white;}
+}
