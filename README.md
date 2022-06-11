@@ -11,6 +11,7 @@
 - The learner associates the neutral stimulus with the unconditioned stimulus
 - The neutral stimulus becomes the conditioned stimulus and results in a conditioned response (the same as the unconditioned response)
 ![Classical Conditioning Example Showing A Dog Drooling](ClassicalConditioning.jfif)
+
 # Operational Conditioning
 
 # Observational Learning
