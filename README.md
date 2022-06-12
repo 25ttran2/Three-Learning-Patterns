@@ -26,6 +26,7 @@
 
 - **Stimulus discrimination** is responding to a specific conditioned stimulus only
 - **Stimulus generalization** is responding to all stimulus that are similar to the conditioned stimulus
+
 >### **Behaviorism**
 >
 >Founded by John B. Watson, behaviorism is a school of thought that started in the early 20th centery
